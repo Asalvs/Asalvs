@@ -8,6 +8,8 @@ My name is Asal and I am thrilled to share my journey with you. After exploring 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
+  
+  ** Still working on my bio page
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Asalvs)](https://github.com/yushi1007)
 

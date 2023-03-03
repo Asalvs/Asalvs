@@ -1,4 +1,11 @@
-### Hi there 👋
+![banner]![1](https://user-images.githubusercontent.com/117792685/222629604-72610bb5-eb62-417b-8a5e-65fa66537419.png)
+
+
+
+
+### Hello and welcome to my GitHub page! 👋
+
+My name is Asal and I am thrilled to share my journey with you. After exploring various fields, I have finally found my true passion in the world of data. Over the past ten months, I have been immersing myself in this exciting field and have been expanding my knowledge by learning new tools such as Python, SQL, and more. Currently, I am enrolled in Data Analysis Bootcamp at Monash universty, where I am gaining hands-on experience and building projects that showcase my skills. I am excited to see where this journey takes me and look forward to sharing my progress with you.
 
 <!--
 **Asalvs/Asalvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

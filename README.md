@@ -10,7 +10,7 @@ My name is Asal, and I'm delighted to share my journey with you. After exploring
 - 🌱 I’m currently learning more about Machine Learning.
 - 📫 How to reach me: You can shoot me an email at asalvalisoltani@gmail.com.
 - 😄 Pronouns: Her/Hers.
-- ⚡ Fun fact: In addition to being a data analyst, I'm also an artist! I love to paint and draw in my free time, and I've even sold some of my artwork at international art shows. I find that my creativity and attention to detail as an artist also come in handy when working with data and analyzing complex problems. you can see my artworks here >> https://www.instagram.com/asalvalisoltani.art/?hl=en
+- ⚡ Fun fact: In addition to being a data analyst, I'm also an artist! I love to paint and draw in my free time, I've started painting since I was 10 year-old and I've even sold some of my artwork at international art shows. I find that my creativity and attention to detail as an artist also come in handy when working with data and analyzing complex problems. you can see my artworks here >> https://www.instagram.com/asalvalisoltani.art/?hl=en
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>

@@ -4,7 +4,7 @@
 
 ## Hello and welcome to my GitHub page! 👋
 
-My name is Asal, and I'm delighted to share my journey with you. After exploring various fields, I have found my true passion in the world of data. Over the past ten months, I have been deeply immersed in this exciting field, expanding my knowledge by learning new tools and techniques such as Python, SQL, and Machine Learning. Currently, I am enrolled in Monash University's Data Analysis Bootcamp, where I am gaining hands-on experience and building projects that showcase my skills. Soon, I will begin my career as a Fraud Analyst at NAB, and I cannot wait to see where this journey takes me. I'm excited to share my progress with you, and thank you for stopping by my page.
+My name is Asal, and I'm delighted to share my journey with you. After exploring various fields, I have found my true passion in the world of data. Over the past ten months, I have been deeply immersed in this exciting field, expanding my knowledge by learning new tools and techniques such as Python, SQL, and Machine Learning. Currently, I am enrolled in Monash University's Data Analysis Bootcamp, where I am gaining hands-on experience and building projects that showcase my skills. Soon, I've started my career as a Fraud Analyst at NAB, and I cannot wait to see where this journey takes me. I'm excited to share my progress with you, and thank you for stopping by my page.
 
 - 🔭 I’m currently working on some Machine learning projects, both unsupervised and supervised.
 - 🌱 I’m currently learning more about Machine Learning.
